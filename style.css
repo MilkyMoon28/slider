@@ -1,0 +1,14 @@
+body {
+    background: #e7af8a;
+}
+.img_wrapper {
+    display: flex;
+    align-items: center;
+}
+img {
+    display: contents;
+}
+.current {
+    display: block;
+
+}
